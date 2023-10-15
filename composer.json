@@ -1,5 +1,5 @@
 {
-    "name": "acacha/helpers",
+    "name": "doobas/helpers",
     "type": "library",
     "description": "Extra helpers for Laravel",
     "keywords": [
@@ -7,18 +7,18 @@
         "helpers",
         "laravel"
     ],
-    "homepage": "https://github.com/acacha/helpers",
+    "homepage": "https://github.com/doobas/helpers",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sergi Tur Badenas",
-            "email": "sergiturbadenas@gmail.com",
-            "homepage": "https://github.com/acacha",
+            "name": "Ramunas Pabreza",
+            "email": "doobas@gmail.com",
+            "homepage": "https://github.com/doobas",
             "role": "Developer"
         }
     ],
     "require": {
-        "php" : "~5.6|~7.0"
+        "php" : "^8.0"
     },
     "require-dev": {
         "phpunit/phpunit" : "~4.0||~5.0",
